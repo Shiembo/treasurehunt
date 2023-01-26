@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "939302248362",
+    "project_id": "treasurehunt-flutter-spanmart",
+    "storage_bucket": "treasurehunt-flutter-spanmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939302248362:android:2b931990f1e0569a1cd5d3",
+        "android_client_info": {
+          "package_name": "com.example.thehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939302248362-dbjtg0fc61bnpnhouugnk98aes6d8nbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQ7PzInBuA2WMtk3w5fUi1Txyx2KelHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939302248362-dbjtg0fc61bnpnhouugnk98aes6d8nbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939302248362-anoc5ljbu1cfe21pas5e3qklncthdk57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thehunt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
