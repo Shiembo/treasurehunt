@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:thehunt/firebase_options.dart';
 import 'package:thehunt/views/hunt/hunt_view.dart';
 import 'package:thehunt/views/login_view.dart';
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 

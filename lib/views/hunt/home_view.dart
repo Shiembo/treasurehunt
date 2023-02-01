@@ -1,7 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide NavigationDrawer;
 import 'package:thehunt/views/hunt/hunt_view.dart';
+
 import 'package:thehunt/views/hunt/treasure_view.dart';
 
 class HomeView extends StatefulWidget {
@@ -95,7 +96,7 @@ class _HomeViewState extends State<HomeView> {
         backgroundColor: Color.fromARGB(255, 255, 0, 255),
         elevation: 0,
       ),
-    //s  drawer: const NavigationDrawer(),
+      drawer: const NavigationDrawer(),
       body: Column(
         children: [
           const SizedBox(
