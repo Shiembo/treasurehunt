@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052773214593",
+    "project_id": "com-span-hunt",
+    "storage_bucket": "com-span-hunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052773214593:android:3173405a641fc45581a080",
+        "android_client_info": {
+          "package_name": "com.span.hunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052773214593-5plfl2012ptnh0d86i3b5nq3lc30cuvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64ZLpq_1iIKMzbgEUyNPxWC4dlAkRuW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052773214593-5plfl2012ptnh0d86i3b5nq3lc30cuvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
